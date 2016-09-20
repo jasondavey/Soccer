@@ -1,0 +1,7 @@
+﻿CREATE TABLE [dbo].[T_TEAM] (
+    [TEAM_ID]         BIGINT        IDENTITY (1, 1) NOT NULL,
+    [TEAM_NAME]       NVARCHAR (50) NOT NULL,
+    [TEAM_MANAGER_ID] BIGINT        NULL,
+    PRIMARY KEY CLUSTERED ([TEAM_ID] ASC)
+);
+

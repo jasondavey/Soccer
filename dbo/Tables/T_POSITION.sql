@@ -1,0 +1,6 @@
+﻿CREATE TABLE [dbo].[T_POSITION] (
+    [POSITION_ID]          INT            IDENTITY (1, 1) NOT NULL,
+    [POSITION_NAME]        NCHAR (25)     NOT NULL,
+    [POSITION_DESCRIPTION] NVARCHAR (150) NOT NULL
+);
+

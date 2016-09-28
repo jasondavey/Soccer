@@ -44,6 +44,7 @@
     <Compile Include="Contracts\ISoccerPlayer.cs" />
     <Compile Include="Contracts\ISubscriber.cs" />
     <Compile Include="Contracts\ITeam.cs" />
+    <Compile Include="SoccerGoalKeeper.cs" />
     <Compile Include="SoccerPlayer.cs" />
     <Compile Include="SoccerTeam.cs" />
     <Compile Include="Player.cs" />

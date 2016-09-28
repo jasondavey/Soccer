@@ -8,6 +8,5 @@ namespace Domain.Contracts
         DateTime EndPlayTime { get; set; }
 
 
-
     }
 }

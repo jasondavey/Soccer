@@ -1,8 +1,8 @@
 ﻿namespace Domain
 {
-    public class SoccerGoalKeeper
+    public class GoalKeeper
     {
-        public SoccerGoalKeeper()
+        public GoalKeeper()
         {
             Number = 1;
 

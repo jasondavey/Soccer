@@ -1,10 +1,6 @@
-﻿namespace Domain.Contracts
+﻿namespace Domain
 {
     public interface IPerson
     {
-        long Id { get; }
-        string FirstName { get; set; }
-        string LastName { get; set; }
-        string EmailAddress { get; set; }
     }
 }

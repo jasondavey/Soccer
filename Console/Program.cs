@@ -1,6 +1,6 @@
-﻿using Domain;
+﻿using DataAccess.repositories.soccer;
+using Domain;
 using System;
-using DataAccess.repositories.soccer;
 
 namespace Console
 {
